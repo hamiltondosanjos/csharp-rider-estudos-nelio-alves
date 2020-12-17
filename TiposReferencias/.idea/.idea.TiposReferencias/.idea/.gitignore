@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.TiposReferencias.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Pichau\RiderProjects\TiposReferencias\.idea\.idea.TiposReferencias\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
